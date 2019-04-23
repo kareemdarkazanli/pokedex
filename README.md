@@ -1,3 +1,3 @@
-##POKEDEX
+### POKEDEX
 
-Pokedex built with react
+Built with React
